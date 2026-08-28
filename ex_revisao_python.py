@@ -2,8 +2,6 @@
 Lista de exercícios de revisão de Python
 Disciplina: Programação para Análise de Dados
 Nome do aluno: Vinícius Gama Dourado
-
-Soluções corrigidas e testadas.
 """
 
 # ============================================================================
